@@ -1,0 +1,21 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+.bgc{
+    background-color:hsl(30, 38%, 92%);
+}
+.box-size{
+    width: 40rem;
+    height: auto;
+    overflow: hidden;
+}
+.font-Fraunces{
+    font-family: 'Fraunces', serif;
+}
+@media (max-width:768px){
+    .box-size{
+        width: 22rem;
+        height: auto;
+        overflow: hidden;
+    }
+}
