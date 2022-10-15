@@ -1,2 +1,2 @@
-## My second front-end projecct tested ##
+## product-comp ##
 Front-end test with { Html,Css,Bootstrap5 }
